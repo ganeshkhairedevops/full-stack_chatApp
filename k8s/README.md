@@ -265,3 +265,4 @@ Once the services are running, you can access the app at [http://localhost:8080]
 ## 🎉 Conclusion
 
 Congratulations! You’ve successfully deployed the **Full-Stack Chat Application** using **Kubernetes (via Kind)** or **Docker Compose**. Whether you're using Kubernetes for a more robust, scalable solution or Docker Compose for a simpler local setup, your chat app is now running!
+thanks
