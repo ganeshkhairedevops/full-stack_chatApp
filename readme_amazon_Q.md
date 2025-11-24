@@ -132,11 +132,10 @@ Then run kubectl get nodes -o wide.
 ## 🚀 5. Deploy the Chat App (Using Amazon Q)
 
 Prompt:
-
+---
 Create a Kubernetes namespace chat-app and deploy a frontend with 2 replicas using image ganeshkhaire14/chat-app-frontend-mcp:v2 on container port 80 with a service, a backend using image ganeshkhaire14/chatapp-backend:latest on port 5001 with a service, a MongoDB deployment with a 5Gi PV and PVC and a service, create a secret for JWT,```
 Save manifests in k8s/ folder and apply them.
-Show kubectl get pods and kubectl get svc in chat-app namespace.
-```
+Show kubectl get pods and kubectl get svc in chat-app namespace.`
 
 ---
 
