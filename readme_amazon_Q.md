@@ -1,4 +1,4 @@
-# 🧊 Amazon Q + Kind Kubernetes Chat App
+# 🧊 Amazon Q + Kubernetes MCP Server + Kind Kubernetes Chat App
 
 This project demonstrates how to use **Amazon Q CLI** together with the **kubernetes-mcp-server** to automate Kubernetes tasks using natural language.  
 With simple prompts, you can:
